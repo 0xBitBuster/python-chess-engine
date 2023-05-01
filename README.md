@@ -31,7 +31,7 @@ python3 ChessMain.py
 ```
 
 ## Quick Note / Todo
-This code does not use the python best practice for the naming convention (The project uses camelCasing instead of lowercase_underscore). You can also try to optimize the negamax and find valid moves algorithm. Maybe even create a UI to select wether you want to play against the computer or another player. Also a huge thanks to Eddie Sharick for the great youtube series.
+This code does not use the python best practice for the naming convention (The project uses camelCasing instead of lowercase_underscore). You can also try to optimize the negamax and find valid moves algorithm. Maybe even create a UI to select wether you want to play against the computer or another player.
 
 ## Contributing
 Contributions are welcome! If you have a feature request or bug report, please open an issue. If you want to contribute code, please fork the repository and submit a pull request.
